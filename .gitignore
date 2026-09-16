@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Raw and filtered train data (large; kept local only)
+junadata/original-data/
+junadata/long-distance-data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
