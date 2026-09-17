@@ -1,0 +1,3090 @@
+[
+  {
+    "trainNumber": 1,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T03:54:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T08:36:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 2,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T02:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:30:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 3,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:14:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T11:51:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 4,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T03:00:00.000Z",
+      "differenceInMinutes": 3
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:44:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 5,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:14:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T14:51:00.000Z",
+      "differenceInMinutes": 15
+    }
+  },
+  {
+    "trainNumber": 6,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T06:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:44:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 7,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:14:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T16:29:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 8,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T09:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:44:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 9,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:14:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T17:56:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 10,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T12:10:00.000Z",
+      "differenceInMinutes": 45
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:45:00.000Z",
+      "differenceInMinutes": 46
+    }
+  },
+  {
+    "trainNumber": 11,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:29:00.000Z",
+      "differenceInMinutes": 8
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T20:14:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 12,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T15:10:00.000Z",
+      "differenceInMinutes": 4
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T19:45:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 20,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 16,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T02:21:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T08:39:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 21,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T03:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T09:16:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 22,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "ROI",
+      "scheduledTime": "2025-06-23T02:15:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 23,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 17,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T11:22:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 24,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T08:55:00.000Z",
+      "differenceInMinutes": 11
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T14:39:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 25,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T09:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T14:48:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 26,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T10:33:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 27,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T11:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "ROI",
+      "scheduledTime": "2025-06-23T19:45:00.000Z",
+      "differenceInMinutes": 21
+    }
+  },
+  {
+    "trainNumber": 28,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T15:08:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T20:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 29,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T21:16:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 33,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T12:45:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 34,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T12:30:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T18:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 35,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 20,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T02:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T08:42:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 36,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 10,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T03:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T09:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 37,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 18,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:20:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T16:41:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 38,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 18,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T06:16:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 40,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T01:44:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:39:00.000Z",
+      "differenceInMinutes": 7
+    }
+  },
+  {
+    "trainNumber": 41,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T04:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T08:07:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 42,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T02:44:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:39:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 43,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T10:22:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 44,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T03:44:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 45,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T08:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T12:17:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 46,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T07:35:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T11:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 47,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T16:10:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 48,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T09:45:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 49,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T14:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T18:02:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 50,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T11:45:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:39:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 51,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T19:15:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 52,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "KOK",
+      "scheduledTime": "2025-06-23T02:17:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T04:53:00.000Z",
+      "differenceInMinutes": -5
+    }
+  },
+  {
+    "trainNumber": 53,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T20:59:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 54,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T13:25:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:39:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 55,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 3,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T05:37:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T06:27:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 56,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 18,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T13:11:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T19:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 59,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:27:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KOK",
+      "scheduledTime": "2025-06-23T17:57:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 61,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 10,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T02:57:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KUO",
+      "scheduledTime": "2025-06-23T07:12:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 62,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "KAJ",
+      "scheduledTime": "2025-06-23T00:33:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:44:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 63,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 22,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:14:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T13:45:00.000Z",
+      "differenceInMinutes": -5
+    }
+  },
+  {
+    "trainNumber": 64,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "KAJ",
+      "scheduledTime": "2025-06-23T03:25:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T09:44:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 65,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 21,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T08:14:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T16:45:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 66,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 21,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T04:07:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:44:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 67,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 21,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T11:14:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T20:10:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 68,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 22,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T07:03:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:44:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 69,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "KV",
+      "scheduledTime": "2025-06-23T14:50:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KAJ",
+      "scheduledTime": "2025-06-23T19:23:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 70,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 21,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T09:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T18:45:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 72,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 10,
+    "origin": {
+      "stationShortCode": "KUO",
+      "scheduledTime": "2025-06-23T13:12:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:44:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 73,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:14:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KAJ",
+      "scheduledTime": "2025-06-23T22:28:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 80,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T02:24:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:59:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 81,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T04:07:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T05:43:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 86,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T11:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T14:59:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 87,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T11:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T14:44:00.000Z",
+      "differenceInMinutes": 7
+    }
+  },
+  {
+    "trainNumber": 88,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T15:10:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T18:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 89,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T18:35:00.000Z",
+      "differenceInMinutes": 19
+    }
+  },
+  {
+    "trainNumber": 93,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T09:40:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 94,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T07:15:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 102,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "IMR",
+      "scheduledTime": "2025-06-23T02:02:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T04:44:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 104,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "IMR",
+      "scheduledTime": "2025-06-23T03:02:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:44:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 109,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:54:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "LR",
+      "scheduledTime": "2025-06-23T13:05:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 111,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T14:14:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "IMR",
+      "scheduledTime": "2025-06-23T16:55:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 114,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "LR",
+      "scheduledTime": "2025-06-23T13:22:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:29:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 115,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T18:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "IMR",
+      "scheduledTime": "2025-06-23T20:55:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 140,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T03:17:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T06:59:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 142,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T06:19:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T09:59:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 143,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T11:37:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 144,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T10:15:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:59:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 145,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T10:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T14:30:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 146,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 13,
+    "origin": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T12:16:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:59:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 147,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T13:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KUO",
+      "scheduledTime": "2025-06-23T18:35:00.000Z",
+      "differenceInMinutes": 8
+    }
+  },
+  {
+    "trainNumber": 148,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T15:10:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T17:50:00.000Z",
+      "differenceInMinutes": 10
+    }
+  },
+  {
+    "trainNumber": 149,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T19:43:00.000Z",
+      "differenceInMinutes": 22
+    }
+  },
+  {
+    "trainNumber": 150,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T04:19:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T07:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 151,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T15:33:00.000Z",
+      "differenceInMinutes": 3
+    }
+  },
+  {
+    "trainNumber": 155,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T04:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T07:39:00.000Z",
+      "differenceInMinutes": 19
+    }
+  },
+  {
+    "trainNumber": 160,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T02:04:00.000Z",
+      "differenceInMinutes": -1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T03:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 162,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T02:45:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T04:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 165,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T05:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T08:48:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 166,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T03:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T04:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 171,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T09:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T12:45:00.000Z",
+      "differenceInMinutes": 3
+    }
+  },
+  {
+    "trainNumber": 177,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T14:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T15:53:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 178,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T11:04:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T12:59:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 180,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T14:04:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T15:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 183,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T18:53:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 184,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T14:02:00.000Z",
+      "differenceInMinutes": 6
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:59:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 185,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T18:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T19:53:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 187,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T19:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T20:53:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 265,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T16:29:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KJÄ",
+      "scheduledTime": "2025-06-24T05:50:00.000Z",
+      "differenceInMinutes": -6
+    }
+  },
+  {
+    "trainNumber": 266,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 24,
+    "origin": {
+      "stationShortCode": "ROI",
+      "scheduledTime": "2025-06-23T14:52:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-24T03:27:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 269,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T17:29:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KLI",
+      "scheduledTime": "2025-06-24T07:55:00.000Z",
+      "differenceInMinutes": -4
+    }
+  },
+  {
+    "trainNumber": 273,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 24,
+    "origin": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-23T20:13:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "ROI",
+      "scheduledTime": "2025-06-24T08:03:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 274,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 15,
+    "origin": {
+      "stationShortCode": "KJÄ",
+      "scheduledTime": "2025-06-23T16:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "HKI",
+      "scheduledTime": "2025-06-24T06:14:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 420,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 10,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T02:05:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T04:40:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 421,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T05:06:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T06:47:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 423,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T09:06:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T10:47:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 424,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T06:57:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T08:40:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 426,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T10:57:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T12:40:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 427,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T13:16:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T14:57:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 428,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "KEU",
+      "scheduledTime": "2025-06-23T15:09:00.000Z",
+      "differenceInMinutes": -1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T16:55:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 429,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 10,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T19:07:00.000Z",
+      "differenceInMinutes": 7
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T21:39:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 440,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 3,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T05:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T06:15:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 442,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 3,
+    "origin": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T15:07:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T15:57:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 445,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 3,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T13:32:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T14:28:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 447,
+    "departureDate": "2025-06-23",
+    "trainType": "S",
+    "numStops": 3,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T16:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "VS",
+      "scheduledTime": "2025-06-23T17:17:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 460,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T02:17:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T03:50:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 461,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T05:08:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T06:40:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 462,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T03:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T04:45:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 464,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T07:03:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T08:36:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 465,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T09:11:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T10:44:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 466,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T04:17:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T05:55:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 467,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T11:11:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T12:44:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 468,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T11:12:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T12:45:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 469,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T13:11:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T14:44:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 470,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T13:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T14:45:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 471,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T15:11:00.000Z",
+      "differenceInMinutes": 13
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T16:44:00.000Z",
+      "differenceInMinutes": 14
+    }
+  },
+  {
+    "trainNumber": 472,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T15:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T16:46:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 473,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T17:09:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T18:45:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 474,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T09:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T10:45:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 476,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T05:04:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T06:39:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 477,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 8,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T03:00:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PRI",
+      "scheduledTime": "2025-06-23T04:47:00.000Z",
+      "differenceInMinutes": 3
+    }
+  },
+  {
+    "trainNumber": 480,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T02:25:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "ÄHT",
+      "scheduledTime": "2025-06-23T03:19:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 481,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T09:23:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T12:02:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 482,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T06:30:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T09:08:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 483,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 2,
+    "origin": {
+      "stationShortCode": "ALV",
+      "scheduledTime": "2025-06-23T05:18:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T05:50:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 484,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 2,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T04:40:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "ALV",
+      "scheduledTime": "2025-06-23T05:10:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 485,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T16:47:00.000Z",
+      "differenceInMinutes": 10
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T19:27:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 486,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 11,
+    "origin": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T13:52:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JY",
+      "scheduledTime": "2025-06-23T16:32:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 489,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "ÄHT",
+      "scheduledTime": "2025-06-23T03:35:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "SK",
+      "scheduledTime": "2025-06-23T04:29:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 491,
+    "departureDate": "2025-06-23",
+    "trainType": "H",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "ILM",
+      "scheduledTime": "2025-06-23T05:30:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "YV",
+      "scheduledTime": "2025-06-23T07:13:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 494,
+    "departureDate": "2025-06-23",
+    "trainType": "H",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "YV",
+      "scheduledTime": "2025-06-23T10:37:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "ILM",
+      "scheduledTime": "2025-06-23T12:18:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 495,
+    "departureDate": "2025-06-23",
+    "trainType": "H",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "ILM",
+      "scheduledTime": "2025-06-23T13:45:00.000Z",
+      "differenceInMinutes": 20
+    },
+    "destination": {
+      "stationShortCode": "YV",
+      "scheduledTime": "2025-06-23T15:24:00.000Z",
+      "differenceInMinutes": 16
+    }
+  },
+  {
+    "trainNumber": 496,
+    "departureDate": "2025-06-23",
+    "trainType": "H",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "YV",
+      "scheduledTime": "2025-06-23T16:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "ILM",
+      "scheduledTime": "2025-06-23T17:55:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 710,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T15:22:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KUO",
+      "scheduledTime": "2025-06-23T19:28:00.000Z",
+      "differenceInMinutes": 8
+    }
+  },
+  {
+    "trainNumber": 711,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 12,
+    "origin": {
+      "stationShortCode": "KUO",
+      "scheduledTime": "2025-06-23T04:15:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "OL",
+      "scheduledTime": "2025-06-23T08:25:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 720,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T03:00:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T05:10:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 724,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T12:40:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T14:52:00.000Z",
+      "differenceInMinutes": -4
+    }
+  },
+  {
+    "trainNumber": 725,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T09:20:00.000Z",
+      "differenceInMinutes": 5
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T11:31:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 729,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "PM",
+      "scheduledTime": "2025-06-23T17:50:00.000Z",
+      "differenceInMinutes": 30
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T20:00:00.000Z",
+      "differenceInMinutes": 14
+    }
+  },
+  {
+    "trainNumber": 740,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T02:15:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T03:08:00.000Z",
+      "differenceInMinutes": -4
+    }
+  },
+  {
+    "trainNumber": 741,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T04:30:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T05:23:00.000Z",
+      "differenceInMinutes": -4
+    }
+  },
+  {
+    "trainNumber": 742,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T06:19:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T07:12:00.000Z",
+      "differenceInMinutes": -4
+    }
+  },
+  {
+    "trainNumber": 743,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T07:26:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T08:19:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 744,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T09:30:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T10:23:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 745,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T10:37:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T11:30:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 746,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T12:30:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T13:23:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 747,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T13:37:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T14:30:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 748,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T15:35:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T16:28:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 749,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T16:42:00.000Z",
+      "differenceInMinutes": 3
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T17:35:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 750,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T17:56:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T18:49:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 751,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 7,
+    "origin": {
+      "stationShortCode": "PAR",
+      "scheduledTime": "2025-06-23T19:00:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "SL",
+      "scheduledTime": "2025-06-23T19:53:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 760,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "NRM",
+      "scheduledTime": "2025-06-23T03:35:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T05:50:00.000Z",
+      "differenceInMinutes": -9
+    }
+  },
+  {
+    "trainNumber": 761,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T08:54:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "NRM",
+      "scheduledTime": "2025-06-23T11:00:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 762,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "NRM",
+      "scheduledTime": "2025-06-23T12:40:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T14:45:00.000Z",
+      "differenceInMinutes": -3
+    }
+  },
+  {
+    "trainNumber": 763,
+    "departureDate": "2025-06-23",
+    "trainType": "HDM",
+    "numStops": 9,
+    "origin": {
+      "stationShortCode": "JNS",
+      "scheduledTime": "2025-06-23T15:00:00.000Z",
+      "differenceInMinutes": 11
+    },
+    "destination": {
+      "stationShortCode": "NRM",
+      "scheduledTime": "2025-06-23T17:06:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 904,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T02:50:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T04:52:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 905,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T03:54:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T05:42:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 909,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T05:10:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T07:47:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 910,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T06:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T07:50:00.000Z",
+      "differenceInMinutes": 3
+    }
+  },
+  {
+    "trainNumber": 916,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T09:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T10:55:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 917,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T10:05:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T11:47:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 921,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T11:56:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T13:47:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 922,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T12:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T13:55:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 923,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T13:05:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T14:47:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 924,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T13:10:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T15:11:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 927,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T15:05:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T16:47:00.000Z",
+      "differenceInMinutes": 10
+    }
+  },
+  {
+    "trainNumber": 928,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T15:10:00.000Z",
+      "differenceInMinutes": 19
+    },
+    "destination": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T17:05:00.000Z",
+      "differenceInMinutes": 8
+    }
+  },
+  {
+    "trainNumber": 931,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T16:50:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T18:46:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 933,
+    "departureDate": "2025-06-23",
+    "trainType": "PYO",
+    "numStops": 6,
+    "origin": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T17:20:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T19:58:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 934,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T18:12:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T19:52:00.000Z",
+      "differenceInMinutes": -1
+    }
+  },
+  {
+    "trainNumber": 936,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TPE",
+      "scheduledTime": "2025-06-23T19:10:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T20:50:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 943,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T04:39:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T05:39:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 944,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T03:27:00.000Z",
+      "differenceInMinutes": 2
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T04:27:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 945,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T06:39:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T07:39:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 948,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T05:05:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T06:27:00.000Z",
+      "differenceInMinutes": -2
+    }
+  },
+  {
+    "trainNumber": 949,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T08:39:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T09:39:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 952,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T07:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T08:27:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 955,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T11:39:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T12:39:00.000Z",
+      "differenceInMinutes": 5
+    }
+  },
+  {
+    "trainNumber": 958,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T10:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T11:27:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 959,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T13:39:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T14:39:00.000Z",
+      "differenceInMinutes": 2
+    }
+  },
+  {
+    "trainNumber": 962,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T12:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T13:27:00.000Z",
+      "differenceInMinutes": 4
+    }
+  },
+  {
+    "trainNumber": 963,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T15:39:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T16:49:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 966,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T14:27:00.000Z",
+      "differenceInMinutes": 1
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T15:27:00.000Z",
+      "differenceInMinutes": 0
+    }
+  },
+  {
+    "trainNumber": 967,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 4,
+    "origin": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T19:16:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "TKU",
+      "scheduledTime": "2025-06-23T20:16:00.000Z",
+      "differenceInMinutes": 1
+    }
+  },
+  {
+    "trainNumber": 972,
+    "departureDate": "2025-06-23",
+    "trainType": "IC",
+    "numStops": 5,
+    "origin": {
+      "stationShortCode": "TUS",
+      "scheduledTime": "2025-06-23T17:30:00.000Z",
+      "differenceInMinutes": 0
+    },
+    "destination": {
+      "stationShortCode": "KR",
+      "scheduledTime": "2025-06-23T18:57:00.000Z",
+      "differenceInMinutes": 0
+    }
+  }
+]

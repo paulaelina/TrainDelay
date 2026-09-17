@@ -2,8 +2,9 @@
 .DS_Store
 
 # Raw and filtered train data (large; kept local only).
-# Whole directory, so any new data subfolder is covered automatically.
-junadata/
+# final data is so small that we can commit it (27 MB)
+junadata/*
+!junadata/filtered-data4/
 
 # Python
 __pycache__/
