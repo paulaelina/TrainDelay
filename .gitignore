@@ -1,10 +1,9 @@
 # macOS
 .DS_Store
 
-# Raw and filtered train data (large; kept local only)
-junadata/original-data/
-junadata/filtered-data/
-junadata/filtered-data2/
+# Raw and filtered train data (large; kept local only).
+# Whole directory, so any new data subfolder is covered automatically.
+junadata/
 
 # Python
 __pycache__/
